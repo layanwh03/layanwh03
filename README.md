@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Layan**, a **Software Engineering student** with a passion for **backend development**, problem-solving, and building tech that makes a real impact.  
+I'm **Layan**, a **Software Engineer** with a passion for **UI/UX Design**, problem-solving, and building tech that makes a real impact.  
 
 - ⚡ I’m always exploring new technologies, improving my skills, and striving to build more efficient, scalable systems.  
 - 🎨 I have a creative side and enjoy **art**, diving into **psychology**, and discovering new ways to combine technology with creativity.  
